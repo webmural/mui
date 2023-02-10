@@ -1,0 +1,28 @@
+::selection {
+  background: indigo;
+  color: #ee1;
+}
+
+:root {
+  color: indigo;
+  background-color: #bae;
+}
+
+:any-link {
+  color: indigo;
+}
+
+:focus {
+  outline-color: indigo;
+  text-shadow: 1vw 2vh 1em darkviolet;
+}
+
+:hover {
+  outline-color: darkmagenta;
+  text-decoration-color: darkmagenta;
+}
+
+mark {
+  background-color: #ee1;
+  color: indigo;
+}
